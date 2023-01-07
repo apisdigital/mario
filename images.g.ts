@@ -1,4 +1,4 @@
-// Auto-generated code. Do not edit.
+// Código generado automáticamente. No editar.
 namespace myImages {
 
     helpers._registerFactory("image", function(name: string) {
@@ -122,5 +122,12 @@ e e 8 8 8 8 8 8 8 8 8 e e e . .
         return null;
     })
 
+    helpers._registerFactory("song", function(name: string) {
+        switch(helpers.stringTrim(name)) {
+
+        }
+        return null;
+    })
+
 }
-// Auto-generated code. Do not edit.
+// Código generado automáticamente. No editar.

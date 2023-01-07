@@ -2,7 +2,8 @@
     "name": "mario",
     "description": "",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "palette": "*"
     },
     "files": [
         "main.blocks",
@@ -19,7 +20,7 @@
         "test.ts"
     ],
     "targetVersions": {
-        "target": "1.5.12",
+        "target": "1.11.37",
         "targetId": "arcade"
     },
     "supportedTargets": [
